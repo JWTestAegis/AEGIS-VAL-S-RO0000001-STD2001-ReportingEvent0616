@@ -1,7 +1,7 @@
 #!/bin/bash
 # **************************************************************
 # Copy .Rprofile and .Renviron to project directory
-# updated for test
+# updated for test 2
 # **************************************************************
 echo "Current Directory: $(pwd)"
 echo "*** File list under project directory BEFORE copying ***"
